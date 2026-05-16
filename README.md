@@ -3,6 +3,7 @@
 Sound Designer | Composer | Technologist
 
 BFA at Berklee College of Music — Composition + Electronic Production & Design
+
 MFA at California Institute of the Arts
 
 Currently based in Santa Clarita, CA
