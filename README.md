@@ -4,7 +4,7 @@ Sound Designer | Composer | Technologist
 
 BFA at Berklee College of Music — Composition + Electronic Production & Design
 
-MFA at California Institute of the Arts
+MFA at California Institute of the Arts - Music Technology
 
 Currently based in Santa Clarita, CA
 
@@ -13,6 +13,8 @@ Currently based in Santa Clarita, CA
 - Technical game audio & sound design (Wwise, Unreal, Unity)
 - Interactive music systems (Max/MSP, Python)
 - Sound design for games and film
+- Music for games and film
+- Compose for acoustic instruments
 
 ## Currently
 - Working with microcontrollers for interactive systems installations 
